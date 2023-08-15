@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 
 
+
+- im a 15 y o kid
+- learning on C/C++/C#, Java, Javascript, Python, php
+- suck at every
+- bruh
 <!--
 **young03281/young03281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
