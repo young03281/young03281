@@ -1,7 +1,7 @@
 ### Hi there 
 
 
-- im a 15 y o kid
+- im a 16 y o kid
 - learning on C/C++/C#, Java, Javascript, Python, php
 - suck at every
 - bruh
