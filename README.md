@@ -1,8 +1,9 @@
 ### Hi there 
 
 
-- im a 16 y o kid
-- learning on C/C++/C#, Java, Javascript, Python, php
+- im a 16 y o kid, taiwanese
+- learning on C/C++/C#, Java, Javascript, Python, php, SQL
+- can speak eng, chi, jp
 - suck at every
 - bruh
 <!--
