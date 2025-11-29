@@ -1,7 +1,7 @@
 ### Hi there 
 
 
-- im a 16 y o kid, taiwanese
+- im a 18 y o kid, taiwanese
 - learning on C/C++/C#, Java, Javascript, Python, php, SQL
 - can speak eng, chi, jp
 - suck at every
